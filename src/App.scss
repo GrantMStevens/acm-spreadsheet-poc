@@ -1,0 +1,27 @@
+html,
+body,
+#root,
+.App {
+  height: 100%;
+  width: 100%;
+  display: flex;
+}
+
+#root {
+  margin: 0 auto;
+  // padding: 2rem;
+}
+
+// // COLORS
+// $primary-color: rgb(22, 57, 92);
+// $secondary-color: rgb(191, 94, 10);
+// $primary-color-dark: rgb(13, 33, 54);
+// $white: #fff;
+
+// :export {
+//   primaryColor: $primary-color;
+//   secondaryColor: $secondary-color;
+//   primaryColorDark: $primary-color-dark;
+//   white: $white;
+
+// }
